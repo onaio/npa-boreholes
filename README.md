@@ -1,2 +1,1 @@
-# npa-boreholes
-NPA Borehole Impact Somalia
+# dfid-somalia
